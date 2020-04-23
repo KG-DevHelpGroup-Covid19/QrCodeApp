@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QR Code Tunduk</string>
+    <string name="camera">перезапустить камеру</string>
+</resources>
